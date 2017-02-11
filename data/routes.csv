@@ -1,0 +1,107 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+10801,MARTA,1,Centennial Oly. Park/Coronet Way,,3,,FF00FF,000000
+10802,MARTA,2,Ponce de Leon Ave/East Lake,,3,,00FF00,000000
+10803,MARTA,3,Martin Luther King Jr. Dr/Auburn Av,,3,,FF8000,000000
+10804,MARTA,4,Thomasville/Moreland Avenue/MTC,,3,,00FF00,000000
+10805,MARTA,5,Piedmont Road/Sandy Springs,,3,,008000,000000
+10806,MARTA,6,Emory,,3,,FF8040,000000
+10807,MARTA,8,North Druid Hills Rd.,,3,,008000,000000
+10808,MARTA,9,East Atl/Tilson Rd/Candler Rd,,3,,00FFFF,000000
+10809,MARTA,12,Howell Mill Rd/Cumberland,,3,,FF00FF,000000
+10810,MARTA,13,Fair Street/Mozley Park,,3,,00FFFF,000000
+10811,MARTA,15,Candler Rd/South DeKalb,,3,,00FF00,000000
+10812,MARTA,16,Noble,,3,,FF8000,000000
+10813,MARTA,19,Clairmont Road,,3,,008080,000000
+10814,MARTA,21,Memorial Drive,,3,,00FF00,000000
+10815,MARTA,24,Hosea L Williams Dr/McAfee Rd,,3,,FF00FF,000000
+10816,MARTA,25,Peachtree Ind. Blvd/Johnson Ferry,,3,,FF00FF,000000
+10817,MARTA,26,Perry Boulevard/North Avenue,,3,,00FFFF,000000
+10818,MARTA,27,Cheshire Bridge Rd/Ansley Mall,,3,,FF0080,000000
+10819,MARTA,30,LaVista Road,,3,,00FF00,000000
+10820,MARTA,32,Bouldercrest,,3,,00FF00,000000
+10821,MARTA,33,Briarcliff Road,,3,,00FFFF,000000
+10822,MARTA,34,2nd Ave/Gresham Rd/Clift Springs Rd,,3,,FF00FF,000000
+10823,MARTA,36,North Decatur Rd/Virginia Highland,,3,,A6CAF0,000000
+10824,MARTA,37,Defoors Ferry  Rd./Atlantic Station,,3,,00FF80,000000
+10825,MARTA,39,Buford Highway,,3,,00FF00,000000
+10826,MARTA,42,Pryor Road/McDaniel Street,,3,,008000,000000
+10827,MARTA,47,I-85 Access Rd./Briarwood Rd.,,3,,FF8080,000000
+10828,MARTA,49,McDonough Boulevard,,3,,808000,000000
+10829,MARTA,50,Donald E Hollowell Pkwy.,,3,,FF8000,000000
+10830,MARTA,51,Joseph E Boone Blvd,,3,,00FF00,000000
+10831,MARTA,53,Skipper Drive/West Lake Avenue,,3,,FF0000,000000
+10832,MARTA,55,Jonesboro Rd/Hutchens Rd/Forest Pky,,3,,FF8000,000000
+10833,MARTA,56,Adamsville/Collier Heights,,3,,00FF00,000000
+10834,MARTA,58,Atlanta Industrial/Hollywood Rd,,3,,A6CAF0,000000
+10835,MARTA,60,Hightower / Moores Mill,,3,,00FF00,000000
+10836,MARTA,66,Lynhurst Dr/Barge Rd P/R,,3,,FF8000,000000
+10837,MARTA,67,West End / Dixie Hills,,3,,00FFFF,000000
+10838,MARTA,68,Donnelly/Beecher,,3,,FF0000,000000
+10839,MARTA,71,Cascade  Road,,3,,FF00FF,000000
+10840,MARTA,73,Fulton Industrial,,3,,00FFFF,000000
+10841,MARTA,74,Flat Shoals,,3,,008000,000000
+10842,MARTA,75,Tucker,,3,,00FF00,000000
+10843,MARTA,78,Cleveland Ave,,3,,FF8000,000000
+10844,MARTA,79,Sylvan Hills,,3,,FF8000,000000
+10845,MARTA,81,Venetian Drive/Adams Park,,3,,00FF00,000000
+10846,MARTA,82,Camp Creek  / Welcome All,,3,,00FF00,000000
+10847,MARTA,83,Campbellton / Greenbriar,,3,,FF00FF,000000
+10848,MARTA,84,East Point/Camp Creek,,3,,FF00FF,000000
+10849,MARTA,85,Roswell / Mansell Rd,,3,,008000,000000
+10850,MARTA,86,PCrest Rd/SnapFing Rd/Fairingt Rd,,3,,008080,000000
+10851,MARTA,87,Roswell Rd./Morgan Falls,,3,,00FFFF,000000
+10852,MARTA,89,Old National Hwy./Union City,,3,,00FF00,000000
+10853,MARTA,93,East Point/Delowe Drive,,3,,00FFFF,000000
+10854,MARTA,95,Metropolitan Pkwy./ Hapeville,,3,,FF00FF,000000
+10855,MARTA,99,North Ave/Boulevard,,3,,008000,000000
+10856,MARTA,102,North Ave/Little Five Points,,3,,FF00FF,000000
+10857,MARTA,103,Peeler Rd./N. Shallowford Rd.,,3,,00FFFF,000000
+10858,MARTA,104,Winters Chapel Road,,3,,00FFFF,000000
+10859,MARTA,107,Glenwood Road,,3,,008000,000000
+10860,MARTA,109,Monroe Dr/Boulevard,,3,,C0C0C0,000000
+10861,MARTA,110,"Peachtree St./""The Peach""",,3,,008080,000000
+10862,MARTA,111,Snapfinger Woods Dr. /Stonecrest,,3,,00FF00,000000
+10863,MARTA,114,Columbia Drive,,3,,FF8040,000000
+10864,MARTA,115,Covington Highway/South Hairston Rd,,3,,00FF00,000000
+10865,MARTA,116,Redan Road / Stonecrest,,3,,00FFFF,000000
+10866,MARTA,117,Rockbridge Rd./Panola Rd.,,3,,FF00FF,000000
+10867,MARTA,119,Kensington/Hairston Rd.,,3,,008080,000000
+10868,MARTA,120,E. Ponce de Leon Ave/Tucker,,3,,FF00FF,000000
+10869,MARTA,121,Stone Mountain/Memorial Drive,,3,,00FFFF,000000
+10870,MARTA,123,Church St/North DeKalb Mall,,3,,00FF00,000000
+10871,MARTA,124,Pleasantdale Road,,3,,008000,000000
+10872,MARTA,125,Clarkston/Northlake,,3,,FF8000,000000
+10873,MARTA,126,NorthLake  / Chamblee,,3,,008000,000000
+10874,MARTA,132,Tilly Mill Road,,3,,FF00FF,000000
+10875,MARTA,140,North Point/Mansell P/R,,3,,FF8000,000000
+10876,MARTA,141,NP Pkwy/Mansell PR/Winward PR,,3,,FF00FF,000000
+10877,MARTA,143,Windward Park / Ride,,3,,00FFFF,000000
+10878,MARTA,148,Sandy Springs./Riveredge Pkwy.,,3,,00FF00,000000
+10879,MARTA,150,Perimeter Center/Dunwoody Village,,3,,00FFFF,000000
+10880,MARTA,153,H E Holmes / Browntown,,3,,FF8000,000000
+10881,MARTA,155,Windsor St./Lakewood  Ave.,,3,,00FFFF,000000
+10882,MARTA,162,Headland Dr. /Alison  Ct.,,3,,008080,000000
+10883,MARTA,165,Fairburn Rd./Barge Rd. Park/Ride,,3,,00FFFF,000000
+10884,MARTA,170,Brownlee Rd./Peyton,,3,,FF0000,000000
+10885,MARTA,172,Sylvan Road/Virginia Ave.,,3,,008000,000000
+10886,MARTA,178,Empire Blvd./Southside Ind. Park,,3,,00FFFF,000000
+10887,MARTA,180,Fairburn / Palmetto,,3,,FF8080,000000
+10888,MARTA,181,Buffington Rd./South Fulton P/R,,3,,008000,000000
+10889,MARTA,183,Barge Rd. P/R /Lakewood,,3,,008000,000000
+10890,MARTA,185,HB Road/Alpha Hwy/Winward PR,,3,,00FFFF,000000
+10891,MARTA,186,Rainbow Dr. / South DeKalb,,3,,00FF00,000000
+10892,MARTA,189,Flat Shoals Road/ Scofield Road,,3,,FF00FF,000000
+10893,MARTA,191,Justice Center/Hartsfield Intl,,3,,FF8000,000000
+10894,MARTA,192,Justice Center/Tara Blvd./Old Dix,,3,,008000,000000
+10895,MARTA,193,Justice Center/SR 54/East Point,,3,,008000,000000
+10896,MARTA,194,Justice Center/Mt. Zion/SR 42-Morel,,3,,008000,000000
+10897,MARTA,195,Forest Parkway/Roosevelt Highway,,3,,FF00FF,000000
+10898,MARTA,196,Church/Upper Riverdale/Mt.Zion,,3,,00FFFF,000000
+10900,MARTA,201,Six Flags Over Georgia,,3,,008000,000000
+10901,MARTA,221,Stone Mountain/Memorial Dr Limited,,3,,FF00FF,000000
+10905,MARTA,800,Lovejoy/Justice Center,,3,,00FF00,000000
+10906,MARTA,823,Belvedere,,3,,00FF00,000000
+10909,MARTA,BLUE,BLUE,,1,,0075B2,000000
+10911,MARTA,GOLD,GOLD,,1,,D4A723,000000
+10912,MARTA,GREEN,GREEN,,1,,009D4B,000000
+10913,MARTA,RED,RED,,1,,CE242B,000000
